@@ -1,0 +1,6 @@
+__pycache__/database.cpython-310.pyc
+__pycache__/
+*.py[cod]
+test.txt
+tables/__pycache__/
+__pycache__/database.cpython-38.pyc
